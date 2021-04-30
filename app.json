@@ -27,6 +27,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+
+    "description": "A movie browser for mobile devices."
+    
+    
   }
 }
